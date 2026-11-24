@@ -203,7 +203,7 @@ export const projects = [
       { step: 'Graph Model', detail: 'Linked representation of security concepts' },
       { step: 'Exploration', detail: 'Queries to explore relationships' },
     ],
-    repo: 'https://github.com/ananya-s-iyengar/heart-disease-prediction-using-AI-ML',
+    repo: '',
   },
   {
     id: 'cloud-attack-simulator',
